@@ -1,0 +1,9 @@
+/.dockerignore
+/.git
+/.gitignore
+/Dockerfile
+/Dockerfile.all
+/LICENSE
+/out
+/README.md
+/update.sh
